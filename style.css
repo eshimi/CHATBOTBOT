@@ -348,6 +348,19 @@ body {
   color: #333;
 }
 
+body {
+  background-image: url('優しそうな日本人の部長に_女性の若手社員がオンラインで質問をする様子_202605111200.jpeg');
+  background-size: cover;
+  background-position: center top;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+.hero, .features, .footer {
+  position: relative;
+  z-index: 1;
+}
+
 /* ===== FOOTER ===== */
 .footer {
   background: #1a3fa8;
