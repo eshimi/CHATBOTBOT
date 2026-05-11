@@ -145,12 +145,12 @@ body {
   width: 180px;
   height: 260px;
   margin-top: 28px;
-　background: transparent;
-　box-shadow: none;
+  background: linear-gradient(160deg, rgba(184,212,248,0.08) 0%, rgba(111,168,245,0.08) 100%);
+  border-radius: 50% 50% 40% 40% / 55% 55% 45% 45%;
   display: flex;
   align-items: flex-end;
   justify-content: center;
-  box-shadow: 0 8px 32px rgba(0,80,200,0.18);
+  box-shadow: none;
   overflow: hidden;
 }
 
